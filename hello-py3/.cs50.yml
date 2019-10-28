@@ -1,4 +1,4 @@
-xxx:
+lab50:
   files:
     - !exclude "*"
     - !include "*"
